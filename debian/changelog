@@ -1,3 +1,9 @@
+dracut (106-6+pexip25u1) pexip-trixie; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Fri, 30 Jan 2026 10:39:01 +0000
+
 dracut (106-6) unstable; urgency=medium
 
   [ cacin ]

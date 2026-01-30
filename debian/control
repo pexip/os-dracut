@@ -1,8 +1,9 @@
 Source: dracut
 Section: utils
 Priority: optional
-Maintainer: Thomas Lange <lange@debian.org>
-Uploaders: Benjamin Drung <bdrung@debian.org>
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Thomas Lange <lange@debian.org>
+XSBC-Pexip-Original-Uploaders: Benjamin Drung <bdrung@debian.org>
 Build-Depends: asciidoc-base,
                debhelper-compat (= 13),
                docbook-xml,
@@ -16,6 +17,7 @@ Standards-Version: 4.7.0
 Vcs-Browser: https://salsa.debian.org/debian/dracut
 Vcs-Git: https://salsa.debian.org/debian/dracut.git
 Homepage: https://github.com/dracut-ng/dracut-ng/wiki
+XS-Pexip-Upstream: http://deb.debian.org/debian/ trixie
 
 Package: dracut-core
 Architecture: any
